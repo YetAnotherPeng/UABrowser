@@ -1,0 +1,11 @@
+F:\ProgramData\VisualStudio\2015\UABrowser\UABrowser\bin\Debug\UABrowser.exe.config
+F:\ProgramData\VisualStudio\2015\UABrowser\UABrowser\bin\Debug\UABrowser.exe
+F:\ProgramData\VisualStudio\2015\UABrowser\UABrowser\bin\Debug\UABrowser.pdb
+F:\ProgramData\VisualStudio\2015\UABrowser\UABrowser\obj\Debug\UABrowser.csprojResolveAssemblyReference.cache
+F:\ProgramData\VisualStudio\2015\UABrowser\UABrowser\obj\Debug\UABrowser.Form1.resources
+F:\ProgramData\VisualStudio\2015\UABrowser\UABrowser\obj\Debug\UABrowser.Properties.Resources.resources
+F:\ProgramData\VisualStudio\2015\UABrowser\UABrowser\obj\Debug\UABrowser.csproj.GenerateResource.Cache
+F:\ProgramData\VisualStudio\2015\UABrowser\UABrowser\obj\Debug\UABrowser.exe
+F:\ProgramData\VisualStudio\2015\UABrowser\UABrowser\obj\Debug\UABrowser.pdb
+F:\ProgramData\VisualStudio\2015\UABrowser\UABrowser\bin\Debug\Spire.Barcode.dll
+F:\ProgramData\VisualStudio\2015\UABrowser\UABrowser\bin\Debug\Spire.Barcode.xml
